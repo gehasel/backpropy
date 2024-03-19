@@ -1,0 +1,5 @@
+# %%
+import mnist
+
+mnist.init()
+# %%
